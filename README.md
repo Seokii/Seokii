@@ -2,7 +2,7 @@
 👋 Hi there! I'm an undergraduate student.  
 I'm interested in ML/DL filed, especially **NLP(Natural Language Processing)**  
 <br>
-<img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/> <img src="https://img.shields.io/badge/dev.seokii@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>  
+<a href="https://seokii.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/dev.seokii@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
 
 ## Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
