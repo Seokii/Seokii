@@ -1,9 +1,9 @@
 ## About me
 👋 Hi there! I'm an undergraduate student majoring in Department of Computer Science and Engineering.  
-I'm interested in ML/DL filed, especially **NLP(Natural Language Processing)**  
+I'm interested in ML/DL filed, especially **NLP(Natural Language Processing) and MLOps**  
 
-👋 안녕하세요! 컴퓨터공학부에 재학중인 학부생입니다.  
-저는 머신러닝/딥러닝 분야에 관심이 많고, 특히 **자연어처리(NLP)** 분야를 열심히 공부하는 중입니다!  
+👋 안녕하세요! 컴퓨터공학부에 졸업을 앞둔 학부생입니다.  
+저는 머신러닝/딥러닝 분야에 관심이 많고, 특히 **자연어처리(NLP)와 MLOps** 분야를 열심히 공부하는 중입니다!  
 <br>
 <a href="https://seokii.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/dev.seokii@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
 
